@@ -1,0 +1,82 @@
+[
+    {
+        "idCard": 1,
+        "cardTitle": "Vicente",
+        "cardDescription": "Vicente se gasta 20 euros en un pantalón y una camisa. No sabe el precio de cada prenda, pero sí sabe que la camisa vale dos quintas partes de lo que vale el pantalón. ¿Cuánto vale el pantalón?",
+        "cardUrlImage": "https://image.freepik.com/foto-gratis/hombre-guapo-joven-camisa-chekered-sentado-mesa-tablet-pc-oficina-trabajo-conjunto_285396-9051.jpg",
+        "cardUrlPage": "/vicente",
+        "cardSolutionURL": "https://i.ibb.co/4dGzBzd/1-Vicente.jpg"
+    },
+    {
+        "idCard": 2,
+        "cardTitle": "Ernesto y su primo juan",
+        "cardDescription": "Hace 5 años la edad de Ernesto era el triple que la de su primo Juan, que tiene 15 años. ¿Cuántos años han de pasar para que Juan tenga la edad actual de Ernesto?",
+        "cardUrlImage": "https://image.freepik.com/foto-gratis/dos-colegas-masculinos-oficina-pie-laptop_1303-19618.jpg",
+        "cardUrlPage": "/ernesto",
+        "cardSolutionURL": "https://i.ibb.co/tXgDxs7/2-Ernesto.jpg"
+    },
+    {
+        "idCard": 3,
+        "cardTitle": "Peceras",
+        "cardDescription": "Tenemos tres peceras y 56 peces. Los tamaños de las peceras son pequeño, mediano y grande, siendo la pequeña la mitad de la mediana y la grande el doble. Como no tenemos ninguna preferencia en cuanto al reparto de los peces, decidimos que en cada una de ellas haya una cantidad de peces proporcional al tamaño de cada pecera. ¿Cuántos peces pondremos en cada pecera?",
+        "cardUrlImage": "https://image.freepik.com/foto-gratis/pez-naranja-nada-acuario-azul_8353-1757.jpg",
+        "cardUrlPage": "/peceras",
+        "cardSolutionURL": "https://i.ibb.co/wRmkD8J/3-Peces.jpg"
+    },
+    {
+        "idCard": 4,
+        "cardTitle": "Juan y Rosa",
+        "cardDescription": "Juan tiene 400 euros y Rosa tiene 350. Ambos se compran el mismo libro. Después de la compra, a Rosa le quedan cinco sextas partes del dinero que le queda a Juan.Calcular el precio del libro.",
+        "cardUrlImage": "https://image.freepik.com/foto-gratis/foto-companeros-trabajo-masculinos-femeninos-confundidos-pensativos-mantener-manos-barbilla_273609-18563.jpg",
+        "cardUrlPage": "/juan-rosa",
+        "cardSolutionURL": "https://i.ibb.co/MDxKRTF/4-Rosa.jpg"
+    },
+    {
+        "idCard": 5,
+        "cardTitle": "Distancia",
+        "cardDescription": "¿Cuánto se tarda en recorrer una distancia de 10km a una velocidad de 40 km/h?",
+        "cardUrlImage": "https://image.freepik.com/foto-gratis/deporte-recorrido-ciclista-bicicleta-contorno_1150-1018.jpg",
+        "cardUrlPage": "/distancia",
+        "cardSolutionURL": "https://i.ibb.co/DwNzqQM/5-recorrido.jpg"
+    },
+    {
+        "idCard": 6,
+        "cardTitle": "Lapices",
+        "cardDescription": "Pagamos 20 dólares por una compra de libretas y lápices. El precio de un lápiz es de 0.5 dólares y el de una libreta es de 3.5.Calcular la cantidad de lápices si ésta triplica la de libretas.",
+        "cardUrlImage": "https://image.freepik.com/foto-gratis/vista-superior-bolso-purpura-cuadernos-lapices-escritorio-azul_140725-66145.jpg",
+        "cardUrlPage": "/lapices",
+        "cardSolutionURL": "https://i.ibb.co/N3rSC6j/6-lapices.jpg"
+    },
+    {
+        "idCard": 7,
+        "cardTitle": "Lockheed SR-7",
+        "cardDescription": "El Lockheed SR-7 (o Blackbird) fue el avión tripulado más rápido del mundo en su día (3500km/h). Calcular la distancia que recorrería en 1 segundo y cuánto tardaría en volar desde el Polo Norte al Polo Sur (20000km).",
+        "cardUrlImage": "https://image.freepik.com/foto-gratis/avion-al-atardecer_1150-8338.jpg",
+        "cardUrlPage": "/avion",
+        "cardSolutionURL": "https://i.ibb.co/86yknJX/7-Avion.jpg"
+    },
+    {
+        "idCard": 8,
+        "cardTitle": "Libreria",
+        "cardDescription": "Una librería consta de 5400 libros repartidos en tres estancias: en la estancia A hay el triple de libros que en la B y en la B la mitad que en la C. Calcular cuántos libros hay en cada estancia.",
+        "cardUrlImage": "https://image.freepik.com/foto-gratis/mujer-mascara-buscando-libros-biblioteca_1150-24643.jpg",
+        "cardUrlPage": "/libreria",
+        "cardSolutionURL": "https://i.ibb.co/sKyQ2dD/8-Libros.jpg"
+    },
+    {
+        "idCard": 9,
+        "cardTitle": "Cuatro Numeros",
+        "cardDescription": "Hallar cuatro números múltiplos de 4 y consecutivos cuya suma es igual al triple del menor de los tres números.Nota: para obtener el número consecutivo y múltiplo de 4 de un número, sumamos 4.",
+        "cardUrlImage": "https://image.freepik.com/foto-gratis/fondo-abstracto-matematicas-hecho-numeros-solidos_118047-1872.jpg",
+        "cardUrlPage": "/numeros",
+        "cardSolutionURL": "https://i.ibb.co/F3xc89Y/9-Multiplos.jpg"
+    },
+    {
+        "idCard": 10,
+        "cardTitle": "Jose y Pablo",
+        "cardDescription": "José tiene 14 años más que Pablo. Calcular la edad que tienen si se sabe que dentro de 10 años el doble de la edad de José es el triple que la de Pablo.",
+        "cardUrlImage": "https://image.freepik.com/foto-gratis/dos-joven-empresario-tener-reunion-exitosa-restaurante_158595-5246.jpg",
+        "cardUrlPage": "/jose-pablo",
+        "cardSolutionURL": "https://i.ibb.co/t4GxmDN/10-Pablos.jpg"
+    }
+]
